@@ -2,3 +2,6 @@
     Cons: time-consuming; outputs are also broken down into several stanges.
 (b) Product Owner - Sets direction for the team, handles release management and stakeholder management.
     Scrum Master - All scrum related tasks - JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master
+(c) Sprint Planning Meeting:Determine what to complete in the coming sprint; Determine story points and assign stories to team.
+Daily Scrum/Standup Meeting:Team members discuss work completed, work plan for the day and any blockers.
+Sprint Retrospective Meeting:Discuss work complete and move incomplete work to backlog; Close sprint.
