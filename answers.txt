@@ -1,2 +1,4 @@
 (a) Pros: constant value add to customer; Being more resilient to scope changes in the Project.
     Cons: time-consuming; outputs are also broken down into several stanges.
+(b) Product Owner - Sets direction for the team, handles release management and stakeholder management.
+    Scrum Master - All scrum related tasks - JIRA tooling, facilitating sprints and meetings, standups all done by the Scrum Master
