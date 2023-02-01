@@ -1,0 +1,2 @@
+(a) Pros: constant value add to customer; Being more resilient to scope changes in the Project.
+    Cons: time-consuming; outputs are also broken down into several stanges.
